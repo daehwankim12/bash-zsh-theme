@@ -16,5 +16,6 @@ omz theme use bash
 just copy bash.zsh-theme to your zsh custom theme folder
 
 ## screenshot
+
 ![screenshot](screenshot.jpg)
 
