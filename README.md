@@ -8,7 +8,7 @@ exactly as bash
 ## auto install:  
 
 ```bash
-wget https://raw.githubusercontent.com/ycpedef/bash-zsh-theme/master/bash.zsh-theme -O $ZSH_CUSTOM/themes/bash.zsh-theme
+wget https://raw.githubusercontent.com/starseekist/bash-zsh-theme/master/bash.zsh-theme -O $ZSH_CUSTOM/themes/bash.zsh-theme
 omz theme use bash
 ```
 
